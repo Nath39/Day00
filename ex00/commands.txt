@@ -1,0 +1,608 @@
+    1  cd Bureau
+    2  sudo apt install php7.3.11
+    3  sudo apt install php7.2
+    4  php -v
+    5  cd evalJon
+    6  bash script.sh
+    7  .script
+    8  mkdir test
+    9  cd Bureau
+   10  mkdir test
+   11  cd test
+   12  vagrant init ubuntu/xenial64
+   13  nano Vagrantfile
+   14  mkdir data
+   15  vagrant up
+   16  sudo apt install VirtualBox
+   17  virtualbox --version
+   18  sudo apt install virtualbox
+   19  vagrant up
+   20  vagrant ssh
+   21  vagrant init
+   22  nano Vagrantfile
+   23  vagrant up
+   24  mkdir data
+   25  vagrant up
+   26  vagrant ssh
+   27  nano Vagrantfile
+   28  vagrant halt
+   29  vagrant up
+   30  vagrant ssh
+   31  cd Bureau
+   32  ls
+   33  cd Soline semaine 28.10 au 31.10
+   34  ls
+   35  cd halloween
+   36  ls
+   37  vagrant ssh
+   38  vagrant up
+   39  virtualboc
+   40  virtualbox
+   41  vagrant
+   42  sudo apt install virtualbox-qt 
+   43  virtualbox 
+   44  exit
+   45  cd Bureau/halloween
+   46  vagrant up
+   47  vagrant ssh
+   48  ls
+   49  vagrant halt
+   50  ls
+   51  vagrant up
+   52  nano Vagrantfile 
+   53  vagrant ssh
+   54  cd Bureau/halloween
+   55  vagrant ssh
+   56  vagrant up
+   57  vagrant ssh
+   58  cd Bureau/halloween
+   59  ls
+   60  vagrant ssh
+   61  mkdir Eval
+   62  cd Eval
+   63  vagrant init
+   64  nano Vagrantfile
+   65  vagrant up
+   66  ls
+   67  mkdir data
+   68  ls
+   69  vagrant ssh
+   70  vagrant halt
+   71  ls
+   72  rmdir data
+   73  cd ~
+   74  cd Bureau
+   75  mkdir eval
+   76  cd eval
+   77  ls
+   78  vagrant init
+   79  nano Vagrantfile
+   80  mkdir data
+   81  vagrant up
+   82  vagrant ssh
+   83  cd Bureau/jmerise
+   84  java jar JMerise jar
+   85  java-jar JMerise jar
+   86  java jar JMerise.jar
+   87  java -jar JMerise.jar
+   88  java -jar JMerise.jar &
+   89  java -jar JMerise.jar
+   90  cd Bureau/jmerise
+   91  java -jar JMerise.jar
+   92  java -jar JMerise.jar &
+   93  mysql
+   94  mysql --
+   95  mysql -u roo
+   96  mysql -u root
+   97  mysql -u(root) -p(000000) (the name of the database) -e "DELETE FROM `wp_posts` WHERE `post_type` = "attachment""
+   98  mysql
+   99  cd Bureau/JMerise/
+  100  ls
+  101  java -jar JMerise.jar &
+  102  cd ..
+  103  cd jmerise
+  104  java -jar JMerise.jar &
+  105  echo "pouet"
+  106  sudo mysql -u root
+  107  netstat -tulpn
+  108  /etc/init.d/mysql stop
+  109  /usr/sbin/mysqld --skip-grant-tables --skip-networking &
+  110  cd Bureau
+  111  cd ..
+  112  sudo mysql -u root
+  113  service mysql restart
+  114  sudo mysql -u root
+  115  java -jar JMerise.jar &
+  116  cd Bureau/jmerise
+  117  java -jar JMerise.jar &
+  118  cd Bureau/jmerise
+  119  java -jar JMerise.jar &
+  120  cd Bureau/jmerise
+  121  java -jar JMerise.jar &
+  122  netstat -tulpn
+  123  cd Bureau/jmreise
+  124  cd Bureau/jmerise
+  125  java -jar JMerise.jar &
+  126  cd ..
+  127  ls
+  128  cd Téléchargements
+  129  ls
+  130  tar -zxvf apache-tomcat-9.0.27.tar.gz 
+  131  cd bin
+  132  ls
+  133  cd apache-tomcat-9.0.27/
+  134  ls
+  135  cd bin
+  136  ./startup.sh
+  137  netstat -tulpn
+  138  cd ..
+  139  ls
+  140  cd webapps
+  141  cp ../../Apprenants.war
+  142  ls
+  143  mysql> create database apprenants;
+  144  mysql> use apprenants;
+  145  cd Bureau/eval2
+  146  ls
+  147  git init
+  148  git add --all 
+  149  touch read.md
+  150  nano read.md
+  151  git add read.md
+  152  git status
+  153  git commit -m "first commit"
+  154  git confit user.name "SolineMP"
+  155  git config user.name "SolineMP"
+  156  git config user.email "soline.molowa@gmail.com
+  157  git config user.email "soline.molowa@gmail.com"
+  158  exit
+  159  git config user.email "soline.molowa@gmail.com"
+  160  cd Bureau/eval2
+  161  ls
+  162  git status
+  163  git commit -m "first commit"
+  164  git confit user.name "SolineMP"
+  165  git config user.name "SolineMP"
+  166  git config user.email "soline.molowa@gmail.com"
+  167  git push https://github.com/SolineMP/evalajax.git master
+  168  git remote add origin https://github.com/SolineMP/evalajax.git
+  169  git push https://github.com/SolineMP/evalajax.git master
+  170  git status
+  171  git commit -m "commit"
+  172  git remote add origin https://github.com/SolineMP/evalajax.git
+  173  git push origin master
+  174  cd Bureau/pdo
+  175  vagrant init
+  176  nano Vagrantfile
+  177  mkdir data
+  178  vagrant up
+  179  vagrant ssh
+  180  vagrant ssh-config
+  181  vagrant ssh
+  182  sudo apt install php7.3-mysql
+  183  sudo service apache2 restart
+  184  sudo nano ~/.ssh/known_hosts
+  185  pwd
+  186  cd Bureau/vagrantc/data/
+  187  git clone https://github.com/Le-TRex/portfolio.git .
+  188  git status
+  189  git add/rm images/yellowtrex.gif
+  190  git /rm images/yellowtrex.gif
+  191  git rm images/yellowtrex.gif
+  192  git status
+  193  git add projects.php 
+  194  git add style.css
+  195  git add templates/footer.php 
+  196  git add templates/header.php 
+  197  git add images/pitichats.png 
+  198  git add projects.js 
+  199  git status
+  200  git commit -m "third commit"
+  201  git config user.email "clarembo@gmail.com
+  202  q
+  203  git config user.name "Le-TRex"
+  204  cd Bureau/vagrantc/data/
+  205  git status
+  206  git commit -m "third commit"
+  207  git config user.email "clarembo@gmail.com"
+  208  git config user.name "Le-TRex"
+  209  git commit -m "third commit"
+  210  git push origin master
+  211  cd Bureau/JMeriseEtudiant/
+  212  ls
+  213  java -jar JMerise.jar &
+  214  cd Bureau/vagrantgroupe
+  215  vagrant init
+  216  nano Vagrantfile 
+  217  vagrant up
+  218  vagrant ssh
+  219  sudo nano ~/.ssh/known_hosts
+  220  vagrant ssh
+  221  cd Bureau/JMeriseEtudiant/
+  222  java -jar JMerise.jar &
+  223  pwd
+  224  cd Bureau/
+  225  cd vagrantc
+  226  vagrant init
+  227  nano Vagrantfile 
+  228  vagrant up
+  229  vagrant ssh
+  230  vagrant ssh-config
+  231  vagrant ssh
+  232  cd Bureau/JMeriseEtudiant/
+  233  ls
+  234  java -jar JMerise.jar &
+  235  virtualbox 
+  236  exit
+  237  cd Bureau/vagrantc/
+  238  vagrant up
+  239  vagrant ssh
+  240  ls
+  241  ls data
+  242  vagrant ssh
+  243  nano Vagrantfile 
+  244  vagrant reload
+  245  ls
+  246  ls data/
+  247  vagrant ssh
+  248  cd Bureau/groupevagrant/
+  249  vagrant init
+  250  nano Vagrantfile 
+  251  vagrant up
+  252  vagrant ssh
+  253  vagrant ssh-config
+  254  vagrant ssh
+  255  cd Bureau/groupevagrant/
+  256  ls
+  257  vagrant ssh
+  258  cd Bureau/vagrantc
+  259  vagrant up
+  260  vagrant ssh
+  261  cd Bureau/vagrantportfolio/
+  262  ls
+  263  vagrant init
+  264  nano Vagrantfile 
+  265  vagrant up
+  266  vagrant ssh
+  267  sudo nano ~/.ssh/known_hosts
+  268  cd Bureau/vagrantTests88/
+  269  vagrant up
+  270  vagrant ssh-config
+  271  vagrant ssh
+  272  vagrant ssh-config
+  273  mysql
+  274  mysql -uroot -p
+  275  sudo apt install mysql-server
+  276  mysql -uroot -p
+  277  cd Bureau/vagrantc
+  278  ls
+  279  vagrant up
+  280  vagrant ssh-config
+  281  vagrant ssh
+  282  cd Bureau/vagTest25/
+  283  vagrant init
+  284  nano Vagrantfile 
+  285  vagrant up
+  286  vagrant ssh
+  287  vagrant ssh-config
+  288  vagrant ssh
+  289  cd Bureau/
+  290  ls
+  291  cd vagTest25/
+  292  vagrant up
+  293  vagrant ssh
+  294  sudo nano ~/.ssh/known_hosts 
+  295  exit
+  296  cd Bureau/vagtest25
+  297  cd Bureau/vagTest25/
+  298  vagrant up
+  299  vagrant ssh
+  300  vagrant ssh-config
+  301  vagrant ssh
+  302  virtualbox 
+  303  nano Vagrantfile 
+  304  git branch
+  305  cd Bureau/vagrantc
+  306  ls
+  307  vagrant up
+  308  vagrant ssh
+  309  nano Vagrantfile 
+  310  vagrant ssh
+  311  vagrant ssh-config
+  312  vagrant ssh
+  313  nano Vagrantfile 
+  314  vagrant ssh
+  315  cd Bureau/vagrantc/
+  316  ls
+  317  vagrant up
+  318  vagrant ssh
+  319  vagrant ssh-config
+  320  ~/.ssh/known_hosts file file
+  321  nano ~/.ssh/known_hosts file file
+  322  vagrant ssh
+  323  ls
+  324  rm -r video/
+  325  mv -r /media/apprenant/lxShareNTFS/Workspace/ /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  326  man mv
+  327  mv -v /media/apprenant/lxShareNTFS/Workspace/ /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  328  mv -v /media/apprenant/lxShareNTFS/video /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  329  mv -v /media/apprenant/lxShareNTFS/video/ /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  330  mv -v /media/apprenant/lxShareNTFS/taff/ /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  331  mv -v /media/apprenant/lxShareNTFS/info/ /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  332  mv -v /media/apprenant/lxShareNTFS/dev/ /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  333  mv -v /media/apprenant/lxShareNTFS/document_doubleenlxshareext/ /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  334  mv -v /media/apprenant/lxShareNTFS/imprimer/ /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  335  mv -v /media/apprenant/lxShareNTFS/gegeg_imp/ /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  336  mv -v /media/apprenant/lxShareNTFS/install/ /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  337  mv -v /media/apprenant/lxShareNTFS/clé\ wifi.txt /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  338  mv -v /media/apprenant/lxShareNTFS/Sans\ nom\ 1.odt /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  339  mv -v /media/apprenant/lxShareNTFS/secu/ /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  340  mv -v /media/apprenant/lxShareNTFS/document_doubleenlxshareext/ /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  341  mv -v /media/apprenant/lxShareNTFS/dev/ /media/apprenant/e2d3b276-3d8f-40e3-88af-5e4d85dbb998/
+  342  ls
+  343  df
+  344  lsblk
+  345  fdisk -l
+  346  rm -r kali
+  347  man parted
+  348  rm kali.ova 
+  349  rm -r kali
+  350  rm -r kaliwin/
+  351  parted
+  352  sudo parted
+  353  sudo parted /dev/sdb1
+  354  eject /dev/sdb
+  355  sudo parted -l
+  356  ejct /dev/sdb
+  357  eject /dev/sdb
+  358  sudo fdisk -l
+  359  sudo parted /dev/sdb
+  360  sudo parted /dev/sdb1
+  361  man parted
+  362  lsblk
+  363  df
+  364  sudo fdisk -l
+  365  dfd
+  366  df
+  367  cd /
+  368  ls
+  369  sudo nano ~/.ssh/known_hosts
+  370  cd Bureau
+  371  ls
+  372  mkdir Laravel
+  373  cd larave
+  374  cd Laravel
+  375  ls
+  376  vagrant init
+  377  nano Vagrantfile
+  378  mkdir data
+  379  vagrant up
+  380  sudo apt install apache2
+  381  sudo apt install mysql-server
+  382  sudo apt-add-repository ppa:ondrej/php
+  383  sudo apt update
+  384  sudo apt install php7.3
+  385  sudo apt install mysql-server
+  386  sudo nano /etc/php/7.3/apache2/php.ini
+  387  sudo service apache2 restart
+  388  vagrant ssh
+  389  nano Vagrantfile
+  390  vagrant reload
+  391  vagrant ss
+  392  vagrant ssh
+  393  cd Bureau
+  394  ls
+  395  cd Laravel
+  396  ls
+  397  vagrant up
+  398  vagrant -v
+  399  virtualbox 
+  400  sudo apt remove vagrant
+  401  sudo apt remove virtualbox-qt
+  402  sudo apt remove virtualbox*
+  403  vagrant up
+  404  ls
+  405  vagrant up
+  406  ls
+  407  vagrant
+  408  vagrant -v
+  409  ls
+  410  cd ..
+  411  sudo mv vagrant /usr/bin/
+  412  vagrant
+  413  vagrant -v
+  414  cd Laravel/
+  415  vagrant up
+  416  vagrant ssh
+  417  ls
+  418  cd Bureau
+  419  ls
+  420  cd Laravel
+  421  vagrant up
+  422  cd Bureau
+  423  ls
+  424  cd Laravel
+  425  vagrant up
+  426  vagrant ssh
+  427  cd ..
+  428  mkdir evalLaravel
+  429  cd evalLaravel/
+  430  vagrant init
+  431  nano Vagrantfile
+  432  ls
+  433  rm -f Vagrantfile
+  434  ls
+  435  nano Vagrantfile
+  436  ls
+  437  vagrant init
+  438  nano Vagrantfile
+  439  mkdir data
+  440  ls
+  441  vagrant up
+  442  vagrant ssh
+  443  nano Vagrantfile
+  444  vagrant reload
+  445  sudo nano /etc/apache2/sites-available/000-default.conf
+  446  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+  447  php -r "if (hash_file('sha384', 'composer-setup.php') === 'baf1608c33254d00611ac1705c1d9958c817a1a33bce370c0595974b342601bd80b92a3f46067da89e3b06bff421f182') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+  448  php composer-setup.php
+  449  php -r "unlink('composer-setup.php');"
+  450  vagrant ssh
+  451  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+  452  php -r "if (hash_file('sha384', 'composer-setup.php') === 'baf1608c33254d00611ac1705c1d9958c817a1a33bce370c0595974b342601bd80b92a3f46067da89e3b06bff421f182') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+  453  php composer-setup.php
+  454  php -r "unlink('composer-setup.php');"
+  455  cd data
+  456  ls
+  457  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+  458  php -r "if (hash_file('sha384', 'composer-setup.php') === 'baf1608c33254d00611ac1705c1d9958c817a1a33bce370c0595974b342601bd80b92a3f46067da89e3b06bff421f182') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+  459  php composer-setup.php
+  460  php -r "unlink('composer-setup.php');"
+  461  vagrant ssh
+  462  ls
+  463  cd projet
+  464  ls
+  465  sudo mv composer.phar /usr/local/bin/composer
+  466  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+  467  php -r "if (hash_file('sha384', 'composer-setup.php') === 'baf1608c33254d00611ac1705c1d9958c817a1a33bce370c0595974b342601bd80b92a3f46067da89e3b06bff421f182') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+  468  php composer-setup.php
+  469  php -r "unlink('composer-setup.php');"
+  470  ls
+  471  sudo mv composer.phar /usr/local/bin/composer
+  472  ls
+  473  sudo mv composer.phar /usr/local/bin/composer
+  474  vagrant ssh
+  475  vagrant reload
+  476  sudo nano /etc/apache2/sites-available/000-default.conf
+  477  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+  478  php -r "if (hash_file('sha384', 'composer-setup.php') === 'baf1608c33254d00611ac1705c1d9958c817a1a33bce370c0595974b342601bd80b92a3f46067da89e3b06bff421f182') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+  479  php composer-setup.php
+  480  php -r "unlink('composer-setup.php');"
+  481  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+  482  php -r "if (hash_file('sha384', 'composer-setup.php') === 'baf1608c33254d00611ac1705c1d9958c817a1a33bce370c0595974b342601bd80b92a3f46067da89e3b06bff421f182') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+  483  php composer-setup.php
+  484  php -r "unlink('composer-setup.php');"
+  485  sudo mv composer.phar /usr/local/bin/composer
+  486  ls
+  487  composer
+  488  ls
+  489  vagrant reload
+  490  vagrant ssh
+  491  vagrant reload
+  492  vagrant ssh
+  493  vagrant realod
+  494  vagrant ralod
+  495  vagrant reload
+  496  ls
+  497  cd ..
+  498  ls
+  499  cd blog
+  500  ls
+  501  cd public
+  502  ls
+  503  vagrant reload
+  504  vagrant ssh
+  505  sudo apt update -y && sudo apt upgrade -y
+  506  watch -n 1 sensors
+  507  top
+  508  apt update
+  509  apt upgrade -y
+  510  sudo apt upgrade -y
+  511  uname -a && lsb_release -a
+  512  apt install VirutalBox-6.1
+  513  apt install VirutalBox
+  514  watch -n 5 sensors
+  515  ifconfig /all
+  516  ifconfig -a
+  517  nmap -p 22 -T5 192.168.100.0/24
+  518  ifconfig -a
+  519  ssh root@192.168.56.101
+  520  ssh root@192.168.33.101
+  521  ssh root@192.168.56.102
+  522  ssh root@192.168.56.103
+  523  ssh root@192.168.56.101
+  524  ssh root@192.168.56.102
+  525  *ifconfig
+  526  ifconfig -a
+  527  ssh root@192.168.33.101
+  528  ping 8.8.8.8
+  529  nmap -T5 -p 80 
+  530  ping 8.8.8.8
+  531  ifconfig
+  532  sudo apt install 
+  533  apt --fix-broken install
+  534  sudo apt install VNC-Viewer-6-20.529-Linux-x64.deb
+  535  mkdir regis
+  536  cd regis/
+  537  sudo apt install xfce4 xfce4-goodies gnome-icon-theme
+  538  apt --fix-broken install
+  539  sudo apt install xfce4 xfce4-goodies gnome-icon-theme
+  540  sudo apt update
+  541  sudo apt install xfce4 xfce4-goodies gnome-icon-theme
+  542  sudo apt install tightvncserver
+  543  vncserver
+  544  sudo apt update
+  545  sudo apt install xfce4 xfce4-goodies gnome-icon-theme
+  546  apt --fix-broken install
+  547  sudo apt install -f
+  548  sudo apt install xfce4 xfce4-goodies gnome-icon-theme
+  549  apt install ./teamviewer_13.x.yyy_[arch].deb
+  550  apt install ./teamviewer-host_13.x.yyy_[arch].deb
+  551  apt update
+  552  uname
+  553  uname -m
+  554  cd ..
+  555  apt install -f
+  556  sudo apt install -f
+  557  sudo apt install VNC-Viewer-6.20.529-Linux-x64.deb
+  558  vagrant init
+  559  ls
+  560  cd Documents/
+  561  cd regis/
+  562  vagrant init
+  563  sudo apt install atom-amd64.deb
+  564  vagrant up
+  565  vagrant ssh
+  566  exit
+  567  sudo mv composer.phar /usr/local/bin/composer
+  568  vagrant up
+  569  vagrant ssh
+  570  vagrant halt
+  571  vagrant up
+  572  vagrant ssh
+  573  exit
+  574  ls
+  575  cd Documents/
+  576  ls
+  577  cd regis/
+  578  cd affichage/
+  579  ls
+  580  vagrant init
+  581  vagrant up
+  582  vagrant halt
+  583  vagrant up
+  584  vagrant ssh
+  585  exit
+  586  vagrant up
+  587  exit
+  588  vagrant up
+  589  vagrant halt
+  590  mv Coruscant.jpg Mustafar.png Naboo.png Tatooine.jpg StarTrek
+  591  script commands.txt
+  592  cd ..
+  593  cd..
+  594  cd Day00
+  595  cd
+  596  ls
+  597  cd Bureau
+  598  ls
+  599  cd Day00
+  600  ls
+  601  cd ex01
+  602  ls
+  603  cat alumni.csv
+  604  cd ..
+  605  ls
+  606  cd ex00
+  607  history 
+  608  history>> commands.txt
