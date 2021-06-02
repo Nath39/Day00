@@ -1,0 +1,1 @@
+apprenant,adm,cdrom,sudo,dip,plugdev,lpadmin,sambashare
