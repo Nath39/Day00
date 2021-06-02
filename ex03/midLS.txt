@@ -1,0 +1,3 @@
+apprenant@apprenant-desktop:~/Bureau/Day00/ex03$ ls -mt -mp
+test01/, test02/, test03/, midLS
+
